@@ -61,7 +61,7 @@ export function Navbar() {
     const [open, setOpen] = React.useState(false)
 
     return (
-        <header className="sticky top-0 px-4 md:pl-12 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+        <header className="sticky top-0 flex justify-center pl-8 md:pl-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
             <div className="container flex h-16 items-center justify-between">
                 <Link href="/" className="flex items-center space-x-2">
                     <span className="text-xl font-bold">Logo</span>
@@ -75,7 +75,7 @@ export function Navbar() {
                                 <span className="sr-only">Toggle menu</span>
                             </Button>
                         </SheetTrigger>
-                        <SheetContent side="right" className="w-[300px] sm:w-[400px]">
+                        <SheetContent side="right" className="w-[300px] sm:w-[400px] p-4">
                             <nav className="flex flex-col gap-4 pt-10">
                                 {navigationItems.map((item) => (
                                     <div key={item.title} className="flex flex-col gap-2">

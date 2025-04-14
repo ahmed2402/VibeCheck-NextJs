@@ -1,5 +1,3 @@
-"use client"
-
 import { BoxReveal } from "@/components/magicui/box-reveal"
 import { Button } from "@/components/ui/button"
 
@@ -15,7 +13,7 @@ const Hero = () => {
                 </BoxReveal>
     
                 <BoxReveal boxColor={"#5046e6"} duration={0.5}>
-                    <h2 className="mt-[.5rem] text-[1rem]">
+                    <h2 className="mt-[.5rem] text-[4rem] leading-tight">
                         UI library for{" "}
                         <span className="text-[#5046e6]">Design Engineers</span>
                     </h2>
