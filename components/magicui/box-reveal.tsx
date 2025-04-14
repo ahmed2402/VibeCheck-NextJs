@@ -15,7 +15,7 @@ export const BoxReveal = ({
   children,
   styles,
   width = "fit-content",
-  boxColor = "#5046e6",
+  boxColor = "bg-foreground",
   duration,
 }: BoxRevealProps) => {
   const mainControls = useAnimation();

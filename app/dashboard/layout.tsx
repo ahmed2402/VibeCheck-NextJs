@@ -8,9 +8,9 @@ const DashboardLayout = ({
   children: React.ReactNode;
 }>) => {
   return (
-    <div className="w-full md:max-h-screen flex flex-col md:flex-row">
-        <CustomSidebar />
-        {children}
+    <div className="w-full md:max-h-screen bg-[#efefef] flex flex-col md:flex-row">
+      <CustomSidebar />
+      {children}
     </div>
   );
 };

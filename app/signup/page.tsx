@@ -34,7 +34,7 @@ const sampleArcs = [
     endLat: -22.9068,
     endLng: -43.1729,
     arcAlt: 0.1,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 1,
@@ -43,7 +43,7 @@ const sampleArcs = [
     endLat: 3.139,
     endLng: 101.6869,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 1,
@@ -52,7 +52,7 @@ const sampleArcs = [
     endLat: -1.303396,
     endLng: 36.852443,
     arcAlt: 0.5,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 2,
@@ -61,7 +61,7 @@ const sampleArcs = [
     endLat: 35.6762,
     endLng: 139.6503,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 2,
@@ -70,7 +70,7 @@ const sampleArcs = [
     endLat: 3.139,
     endLng: 101.6869,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 2,
@@ -79,7 +79,7 @@ const sampleArcs = [
     endLat: 36.162809,
     endLng: -115.119411,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 3,
@@ -88,7 +88,7 @@ const sampleArcs = [
     endLat: 22.3193,
     endLng: 114.1694,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 3,
@@ -97,7 +97,7 @@ const sampleArcs = [
     endLat: 40.7128,
     endLng: -74.006,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 3,
@@ -106,7 +106,7 @@ const sampleArcs = [
     endLat: 51.5072,
     endLng: -0.1276,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 4,
@@ -115,7 +115,7 @@ const sampleArcs = [
     endLat: -15.595412,
     endLng: -56.05918,
     arcAlt: 0.5,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 4,
@@ -124,7 +124,7 @@ const sampleArcs = [
     endLat: 22.3193,
     endLng: 114.1694,
     arcAlt: 0.7,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 4,
@@ -133,7 +133,7 @@ const sampleArcs = [
     endLat: 48.8566,
     endLng: -2.3522,
     arcAlt: 0.1,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 5,
@@ -142,7 +142,7 @@ const sampleArcs = [
     endLat: 51.5072,
     endLng: -0.1276,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 5,
@@ -151,7 +151,7 @@ const sampleArcs = [
     endLat: -33.8688,
     endLng: 151.2093,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 5,
@@ -160,7 +160,7 @@ const sampleArcs = [
     endLat: 48.8566,
     endLng: -2.3522,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 6,
@@ -169,7 +169,7 @@ const sampleArcs = [
     endLat: 1.094136,
     endLng: -63.34546,
     arcAlt: 0.7,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 6,
@@ -178,7 +178,7 @@ const sampleArcs = [
     endLat: 35.6762,
     endLng: 139.6503,
     arcAlt: 0.1,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 6,
@@ -187,7 +187,7 @@ const sampleArcs = [
     endLat: 51.5072,
     endLng: -0.1276,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 7,
@@ -196,7 +196,7 @@ const sampleArcs = [
     endLat: -15.595412,
     endLng: -56.05918,
     arcAlt: 0.1,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 7,
@@ -205,7 +205,7 @@ const sampleArcs = [
     endLat: 52.52,
     endLng: 13.405,
     arcAlt: 0.1,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 7,
@@ -214,7 +214,7 @@ const sampleArcs = [
     endLat: 34.0522,
     endLng: -118.2437,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 8,
@@ -223,7 +223,7 @@ const sampleArcs = [
     endLat: -33.936138,
     endLng: 18.436529,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 8,
@@ -232,7 +232,7 @@ const sampleArcs = [
     endLat: 52.3676,
     endLng: 4.9041,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 8,
@@ -241,7 +241,7 @@ const sampleArcs = [
     endLat: 40.7128,
     endLng: -74.006,
     arcAlt: 0.5,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 9,
@@ -250,7 +250,7 @@ const sampleArcs = [
     endLat: 34.0522,
     endLng: -118.2437,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 9,
@@ -259,7 +259,7 @@ const sampleArcs = [
     endLat: -22.9068,
     endLng: -43.1729,
     arcAlt: 0.7,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 9,
@@ -268,7 +268,7 @@ const sampleArcs = [
     endLat: -34.6037,
     endLng: -58.3816,
     arcAlt: 0.5,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 10,
@@ -277,7 +277,7 @@ const sampleArcs = [
     endLat: 28.6139,
     endLng: 77.209,
     arcAlt: 0.7,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 10,
@@ -286,7 +286,7 @@ const sampleArcs = [
     endLat: 31.2304,
     endLng: 121.4737,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 10,
@@ -295,7 +295,7 @@ const sampleArcs = [
     endLat: 52.3676,
     endLng: 4.9041,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 11,
@@ -304,7 +304,7 @@ const sampleArcs = [
     endLat: 34.0522,
     endLng: -118.2437,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 11,
@@ -313,7 +313,7 @@ const sampleArcs = [
     endLat: 31.2304,
     endLng: 121.4737,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 11,
@@ -322,7 +322,7 @@ const sampleArcs = [
     endLat: 1.3521,
     endLng: 103.8198,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 12,
@@ -331,7 +331,7 @@ const sampleArcs = [
     endLat: 37.7749,
     endLng: -122.4194,
     arcAlt: 0.1,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 12,
@@ -340,7 +340,7 @@ const sampleArcs = [
     endLat: 22.3193,
     endLng: 114.1694,
     arcAlt: 0.2,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 12,
@@ -349,7 +349,7 @@ const sampleArcs = [
     endLat: 34.0522,
     endLng: -118.2437,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 13,
@@ -358,7 +358,7 @@ const sampleArcs = [
     endLat: 22.3193,
     endLng: 114.1694,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 13,
@@ -367,7 +367,7 @@ const sampleArcs = [
     endLat: 35.6762,
     endLng: 139.6503,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 13,
@@ -376,7 +376,7 @@ const sampleArcs = [
     endLat: -34.6037,
     endLng: -58.3816,
     arcAlt: 0.1,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
   {
     order: 14,
@@ -385,7 +385,7 @@ const sampleArcs = [
     endLat: 21.395643,
     endLng: 39.883798,
     arcAlt: 0.3,
-    color: colors[Math.floor(Math.random() * (colors.length - 1))],
+    color: "#A13162",
   },
 ];
 
@@ -395,9 +395,9 @@ const page = () => {
       <div className="w-full md:w-1/2 min-h-screen flex items-center justify-center">
         <SignUpForm />
       </div>
-      <div className="hidden md:flex flex-row items-center justify-center py-20 h-screen md:h-auto dark:bg-black bg-white relative w-1/2">
+      <div className="hidden md:flex flex-row items-center justify-center py-20 h-screen md:h-auto dark:bg-black bg-background relative w-1/2">
         <div className="w-full relative overflow-hidden h-full px-4">
-          <div className="absolute w-full bottom-20 inset-x-0 h-40 bg-gradient-to-b pointer-events-none select-none from-transparent dark:to-black to-white z-40" />
+          <div className="absolute w-full bottom-20 inset-x-0 h-40 bg-gradient-to-b pointer-events-none select-none from-transparent dark:to-black to-background z-40" />
           <div className="absolute w-full top-0 h-72 md:h-full z-10">
             <World data={sampleArcs} globeConfig={globeConfig} />
           </div>
