@@ -64,8 +64,8 @@ export function Navbar() {
     <header className="sticky top-0 flex justify-center pl-6 md:pl-0 z-50 w-full bg-transparent backdrop-blur supports-[backdrop-filter]:bg-background/10">
       <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center space-x-2">
-          <span className="text-2xl text-background md:text-foreground font-bold">
-            Logo
+          <span className="text-3xl text-background md:text-foreground font-bold">
+            VibeCheck
           </span>
         </Link>
 
@@ -81,7 +81,10 @@ export function Navbar() {
                 <span className="sr-only">Toggle menu</span>
               </Button>
             </SheetTrigger>
-            <SheetContent side="right" className="w-[300px] sm:w-[400px] p-4 bg-background">
+            <SheetContent
+              side="right"
+              className="w-[300px] sm:w-[400px] p-4 bg-background"
+            >
               <nav className="flex flex-col gap-4 pt-10">
                 {navigationItems.map((item) => (
                   <div key={item.title} className="flex flex-col gap-2">
@@ -180,7 +183,7 @@ export function Navbar() {
           <Button variant="ghost" className="text-background text-lg" asChild>
             <Link href="/login">Login</Link>
           </Button>
-          <Button asChild>
+          <Button asChild className="bg-foreground hover:bg-foreground/80">
             <Link href="/signup">Sign Up</Link>
           </Button>
         </div>
